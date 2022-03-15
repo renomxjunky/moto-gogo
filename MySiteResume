@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Wes' Idea Box</title>
+<style>
+
+  body {
+    background-color: #40e0d0;
+  }
+  hr {
+    background-color: transparent;
+    border-style: dotted none none;
+    border-color: #72b5b7;
+    border-top-width: 10px;
+    height: 0px;
+    width: 5%;
+      }
+  img {
+    border-radius:2.5%;
+      }
+
+</style>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="Images/The Dude and Walter.jpg" alt="The dude and walter"></td>
+      <td><h1>Wes Gilmore</h1>
+    <h4><strong>Clear Capital</strong></h4>
+        <em>Manager of Property Data Collections/Modern Appraisal Product</em>
+        <p>I have worked at Clear Capital since 2011, starting in the <br> BPO Quality
+          Assurance department and eventually working my <br> way up to lead and later to Manager of Modern
+         Appraisal.</p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Education</h3>
+  <p><ul>
+    <li>Currently obtaining Web development certificate</li>
+    <li>University of Phoenix - SBE</li>
+    <li>Cuesta College</li>
+    <li>Truckee High School</li>
+    </ul>
+    <hr>
+    <h3>Work Experience</h3>
+    <table cellspacing="10">
+      <thead>
+        <tr>
+          <th>Dates</th>
+          <th>Work</th>
+        </tr>
+      </thead>
+      <tbody>
+
+      </tbody>
+      <tfoot>
+
+      </tfoot>
+      <tr>
+        <td>Current</td>
+        <td>Department Manager at Clear Capital</td>
+      </tr>
+      <tr>
+        <td>2017-2019</td>
+        <td>Real Estate Valuation Analyst Lead at Clear Capital</td>
+      </tr>
+      <tr>
+        <td>2011-2017</td>
+        <td>Real Estate Valuation Analyst at Clear Capital</td>
+      </tr>
+    </table>
+    <hr>
+  </P>
+  <p>
+    <a href="Hobbies.html">My Hobbies</a><br>
+    <a href="contactme.html">Contact Me</a><br>
+    <a href="Idea-box.html">Where Idea's Come to Stay</a><br>
+    <a href="Skills.html">Skills</a><br>
+    <a href="Notebook.html">Notebook</a><br>
+  </p>
+
+</body>
+
+</html>
