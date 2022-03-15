@@ -1,0 +1,67 @@
+/****Tag Selectors*****/
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #98ded9;
+
+}
+
+h1 {
+  position: fixed;
+  left: 40%;
+  top: 40px;
+
+}
+
+p {
+
+}
+
+
+/*****Class Selectors*****/
+.TopContainer{
+  background-color: #faf3dd;
+  position: relative;
+  padding: 100px;
+
+
+}
+
+.MiddleContainer {
+  height: 800px;
+  width: 200px;
+  background-color: red;
+
+
+
+}
+
+.BottomContainer {
+  height: 200px;
+  width: 200px;
+  background-color: indigo;
+
+
+}
+.great {
+  font-style: italic;
+}
+
+.second-p {
+  /*display: none;*/
+  visibility: hidden;
+}
+
+.cloud-1 {
+  position: absolute;
+  right: 600px;
+  top: 10px;
+}
+
+.cloud-2 {
+  position: absolute;
+  left: 600px;
+  bottom: 400px;
+}
+
+/*****ID Selectors*****/
